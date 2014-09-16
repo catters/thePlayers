@@ -1,0 +1,234 @@
+body {
+  background-image: url(/images/bg.jpg);
+}
+
+nav ul {
+  padding: 0px;
+  margin-left: 45px;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 5px;
+}
+
+p {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  text-align: justify;
+}
+
+strong {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #993366;
+}
+
+h1 {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #993366;
+  font: bold 16px Candara, Arial, Helvitica, sans-serif;
+}
+
+h3 {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+}
+
+li {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  color: #000000;
+  list-style-image: url(../images/site_media/list_bullet.gif);
+}
+
+th {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: left;
+  background-color: #993366;
+}
+
+.p {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+}
+
+.TblStripe1 {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  background-color: #FFCCCC;
+}
+
+.TblStripe2 {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 14px;
+  background-color: #FFFFFF;
+}
+
+.SpnsrShow {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  background-color: #FFCCCC;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.SpnsrGold {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  background-color: #CCCC00;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.SpnsrSilver {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  background-color: #CCCCCC;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.SpnsrBronze {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  background-color: #CC9900;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.LargeText {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 16px;
+}
+
+.SmallText {
+  font-family: Candara, Arial, Helvitica, sans-serif;
+  font-size: 10px;
+  text-align: right;
+}
+
+.SpnsrLogo {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.sold_out {
+  font-family: Candara, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #F00;
+}
+
+.green_title {
+  color: #090;
+}
+
+#playerslogo {
+  position: relative;
+  margin: 0 0 0 330px;
+  width: 350px;
+  height: 170px;
+  border: 0px;
+  background-image: url(../images/players-logo.jpg);
+  background-repeat: no-repeat;
+}
+
+#playerslogo:hover {
+  cursor: pointer;
+}
+
+#addthis {
+  position: relative;
+  float: right;
+  width: 250px;
+  margin-right: 10px;
+}
+
+#topmenu {
+  position: relative;
+  float: none;
+  width: 830px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+#buttons {
+  float: left;
+  padding: 10 10 10 10;
+  width: 100%;
+  /*  margin-left: 310px;*/
+}
+
+#contact-us {
+  float: left;
+  padding: 10 10 10 10;
+  margin-left: 260px;
+}
+
+#donate {
+  float: right;
+  padding: 10 10 10 10;
+  margin-right: 230px;
+}
+
+#content {
+  position: relative;
+  padding: 10 10 10 10;
+  width: 90%;
+  margin-left: 50px;
+}
+
+#feature-txt-1 img {
+  margin-left: 8px;
+}
+
+#copyright {
+  float: left;
+  position: relative;
+  width: 500px;
+  margin-left: 10px;
+}
+
+#wrapper {
+  float: none;
+  position: relative;
+  margin-top: 25px;
+}
+
+#feature-img {
+  float: left;
+  position: relative;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+#feature-txt-1 {
+  float: left;
+  position: relative;
+  width: 400px;
+}
+
+#feature-txt-2 {
+  float: right;
+  position: relative;
+  width: 400px;
+}
+
+#feature-txt-2a {
+  padding-left: 10px;
+  padding-right: 10px;
+  float: right;
+  position: relative;
+  width: 400px;
+  border: 1px dotted rgba(235, 185, 185, 0.99);
+}
+
+#feature-txt-2a img {
+  margin-left: 8px;
+}
