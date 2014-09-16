@@ -3,7 +3,7 @@ body {
 }
 
 nav ul {
-  padding: 0px;
+  padding: 0;
   margin-left: 45px;
 }
 
@@ -32,7 +32,7 @@ h1 {
 }
 
 h2 {
-  color: #993366;
+  color: #936;
   font: bold 16px Candara, Arial, Helvitica, sans-serif;
 }
 
@@ -44,7 +44,7 @@ h3 {
 li {
   font-family: Candara, Arial, Helvitica, sans-serif;
   font-size: 14px;
-  color: #000000;
+  color: #000;
   list-style-image: url(../images/site_media/list_bullet.gif);
 }
 
@@ -52,9 +52,9 @@ th {
   font-family: Candara, Arial, Helvitica, sans-serif;
   font-size: 14px;
   font-weight: bold;
-  color: #FFFFFF;
+  color: #fff;
   text-align: left;
-  background-color: #993366;
+  background-color: #936;
 }
 
 .p {
@@ -173,8 +173,8 @@ th {
 
 #donate {
   float: right;
-  padding: 10 10 10 10;
   margin-right: 230px;
+  padding: 10;
 }
 
 #content {
@@ -209,9 +209,9 @@ th {
 }
 
 #feature-txt-1 {
-  float: left;
   position: relative;
-  width: 400px;
+  width: 80%;
+  margin: auto;
 }
 
 #feature-txt-2 {

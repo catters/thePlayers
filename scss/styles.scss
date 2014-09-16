@@ -1,11 +1,11 @@
-$font-stack:Candara, Arial, Helvitica, sans-serif;
- $text-highlight:#993366;
+ $font-stack:Candara, Arial, Helvitica, sans-serif;
+ $text-highlight:#936;
  $standard-font:14px;
  body {
     background-image: url(/images/bg.jpg)
 }
 nav ul {
-    padding: 0px;
+    padding: 0;
     margin-left: 45px;
 }
 nav ul li {
@@ -29,7 +29,7 @@ h1 {
     font-weight: bold;
 }
 h2 {
-    color: #993366;
+    color: #936;
     font: bold 16px $font-stack;
 }
 h3 {
@@ -39,16 +39,16 @@ h3 {
 li {
     font-family: $font-stack;
     font-size: $standard-font;
-    color: #000000;
+    color: #000;
     list-style-image: url(../images/site_media/list_bullet.gif);
 }
 th {
     font-family: $font-stack;
     font-size: $standard-font;
     font-weight: bold;
-    color: #FFFFFF;
+    color: #fff;
     text-align: left;
-    background-color: #993366;
+    background-color: #936;
 }
 .p {
     font-family: $font-stack;
@@ -148,8 +148,8 @@ th {
 }
 #donate {
     float: right;
-    padding: 10 10 10 10;
     margin-right: 230px;
+    padding: 10;
 }
 #content {
     position: relative;
@@ -193,7 +193,7 @@ th {
     float: right;
     position: relative;
     width: 400px;
-    border: 1px dotted rgba(235, 185, 185, 0.99)
+    border: 1px dotted rgba(235, 185, 185, .99);
 }
 #feature-txt-2a img {
     margin-left: 8px;
