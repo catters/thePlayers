@@ -1,4 +1,4 @@
 thePlayers
 ==========
 
-Just an online back-up for a really old site that I mainton for ana mazing theatre company in the States.
+Just an online back-up for a really old site that I maintain for an amazing theatre company in the States.
